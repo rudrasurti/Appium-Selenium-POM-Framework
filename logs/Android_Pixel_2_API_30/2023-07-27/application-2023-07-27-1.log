@@ -1,0 +1,284 @@
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:11:15.972 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:15:22.396 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:16:45.556 BaseTest:114 - sessionId: 9fc9d574-3a60-46bc-8796-1250b3c6c233
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:16:48.034 LoginTests:52 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:16:48.035 LoginTests:53 - ******************* Test started: invalidPassword*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:16:50.177 BasePage:127 - Filling standard_user in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:16:50.558 BasePage:111 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:16:51.080 BasePage:127 - Filling invalidpassword in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:16:51.154 BasePage:111 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:16:51.431 BasePage:104 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:16:56.769 BasePage:159 - Attribute: text - value for Username and password do not match any user in this service. is - Username and password do not match any user in this service.
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:16:56.899 VerificationUtils:32 - Actual: Username and password do not match any user in this service.
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:16:56.899 VerificationUtils:33 - Expected: Username and password do not match any user in this service.
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:16:58.100 LoginTests:61 - ******************* Test ended: invalidPassword*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:16:58.100 LoginTests:62 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:17:10.264 LoginTests:52 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:17:10.264 LoginTests:53 - ******************* Test started: invalidUserName*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:10.474 BasePage:127 - Filling invalidusername in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:10.557 BasePage:111 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:12.375 BasePage:127 - Filling secret_sauce in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:12.433 BasePage:111 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:12.733 BasePage:104 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:13.772 BasePage:159 - Attribute: text - value for Username and password do not match any user in this service. is - Username and password do not match any user in this service.
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:13.961 VerificationUtils:32 - Actual: Username and password do not match any user in this service.
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:13.962 VerificationUtils:33 - Expected: Username and password do not match any user in this service.
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:17:14.531 LoginTests:61 - ******************* Test ended: invalidUserName*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:17:14.531 LoginTests:62 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:17:25.673 LoginTests:52 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:17:25.674 LoginTests:53 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:25.803 BasePage:127 - Filling standard_user in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:25.872 BasePage:111 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:27.223 BasePage:127 - Filling secret_sauce in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:27.289 BasePage:111 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:28.441 BasePage:104 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:32.249 BasePage:159 - Attribute: text - value for PRODUCTS is - PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:32.484 VerificationUtils:32 - Actual: PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:32.484 VerificationUtils:33 - Expected: PRODUCTS
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:17:33.546 LoginTests:61 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:17:33.546 LoginTests:62 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:17:50.429 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:17:50.430 ProductTests:59 - ******************* Test started: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:50.694 BasePage:127 - Filling standard_user in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:50.734 BasePage:111 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:51.065 BasePage:127 - Filling secret_sauce in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:51.115 BasePage:111 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:52.316 BasePage:104 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:55.175 BasePage:159 - Attribute: text - value for PRODUCTS is - PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:55.247 VerificationUtils:32 - Actual: PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:55.248 VerificationUtils:33 - Expected: PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:56.450 BasePage:97 - Sauce Labs Backpack is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:58.350 BasePage:159 - Attribute: text - value for Sauce Labs Backpack is - Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:58.440 VerificationUtils:32 - Actual: Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:17:58.440 VerificationUtils:33 - Expected: Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:18:11.906 ProductTests:68 - ******************* Test ended: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:18:11.906 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:18:22.472 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:18:22.473 ProductTests:59 - ******************* Test started: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:22.559 BasePage:127 - Filling standard_user in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:22.596 BasePage:111 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:23.901 BasePage:127 - Filling secret_sauce in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:23.951 BasePage:111 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:25.888 BasePage:104 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:27.599 BasePage:159 - Attribute: text - value for PRODUCTS is - PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:27.689 VerificationUtils:32 - Actual: PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:27.690 VerificationUtils:33 - Expected: PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:28.640 BasePage:97 - Sauce Labs Backpack is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:30.485 BasePage:159 - Attribute: text - value for Sauce Labs Backpack is - Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:30.552 VerificationUtils:32 - Actual: Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:30.552 VerificationUtils:33 - Expected: Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:18:42.494 ProductTests:68 - ******************* Test ended: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:18:42.495 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:18:47.645 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:18:47.645 ProductTests:59 - ******************* Test started: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:47.698 BasePage:127 - Filling standard_user in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:47.731 BasePage:111 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:48.849 BasePage:127 - Filling secret_sauce in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:48.886 BasePage:111 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:50.465 BasePage:104 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:52.333 BasePage:159 - Attribute: text - value for PRODUCTS is - PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:52.413 VerificationUtils:32 - Actual: PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:52.413 VerificationUtils:33 - Expected: PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:53.357 BasePage:159 - Attribute: text - value for Sauce Labs Backpack is - Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:53.405 VerificationUtils:32 - Actual: Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:53.405 VerificationUtils:33 - Expected: Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:54.109 BasePage:159 - Attribute: text - value for $29.99 is - $29.99
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:54.183 VerificationUtils:32 - Actual: $29.99
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:54.183 VerificationUtils:33 - Expected: $29.99
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:54.746 BasePage:104 - Settings button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:18:56.536 BasePage:104 - Logout button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:18:57.013 ProductTests:68 - ******************* Test ended: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:18:57.013 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:19:07.498 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:19:07.498 ProductTests:59 - ******************* Test started: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:07.543 BasePage:127 - Filling standard_user in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:07.570 BasePage:111 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:08.668 BasePage:127 - Filling secret_sauce in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:08.697 BasePage:111 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:10.283 BasePage:104 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:11.669 BasePage:159 - Attribute: text - value for PRODUCTS is - PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:11.720 VerificationUtils:32 - Actual: PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:11.720 VerificationUtils:33 - Expected: PRODUCTS
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:12.557 BasePage:159 - Attribute: text - value for Sauce Labs Backpack is - Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:12.606 VerificationUtils:32 - Actual: Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:12.606 VerificationUtils:33 - Expected: Sauce Labs Backpack
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:13.200 BasePage:159 - Attribute: text - value for $29.99 is - $29.99
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:13.241 VerificationUtils:32 - Actual: $29.99
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:13.241 VerificationUtils:33 - Expected: $29.99
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:13.768 BasePage:104 - Settings button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-26 15:19:15.419 BasePage:104 - Logout button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:19:15.911 ProductTests:68 - ******************* Test ended: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:19:15.911 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-26 15:19:19.417 BaseTest:155 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:05.911 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:40.873 BaseTest:114 - sessionId: 865cda56-6c20-414a-9c44-968dd324fa0c
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:41.747 LoginTests:52 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:41.748 LoginTests:53 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:44.715 LoginTests:61 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:44.716 LoginTests:62 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:46.930 LoginTests:52 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:46.930 LoginTests:53 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:49.804 LoginTests:61 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:49.805 LoginTests:62 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:59.157 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:55:59.157 ProductTests:59 - ******************* Test started: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:56:10.643 ProductTests:68 - ******************* Test ended: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:56:10.643 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:56:19.783 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:56:19.783 ProductTests:59 - ******************* Test started: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:56:31.883 ProductTests:68 - ******************* Test ended: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:56:31.883 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:56:41.741 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:56:41.742 ProductTests:59 - ******************* Test started: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:56:53.229 ProductTests:68 - ******************* Test ended: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:56:53.230 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:57:02.822 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:57:02.822 ProductTests:59 - ******************* Test started: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:57:14.170 ProductTests:68 - ******************* Test ended: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 12:57:14.170 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:10.104 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:36.619 BaseTest:114 - sessionId: 508b9866-7673-4614-9e92-621c2a624ed6
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:37.944 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:37.944 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:40.629 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:40.629 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:43.480 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:43.481 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:46.458 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:46.459 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:56.701 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:22:56.702 ProductTests:59 - ******************* Test started: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:23:08.930 ProductTests:68 - ******************* Test ended: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:23:08.930 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:23:18.655 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:23:18.656 ProductTests:59 - ******************* Test started: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:23:32.131 ProductTests:68 - ******************* Test ended: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:23:32.132 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:23:43.040 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:23:43.040 ProductTests:59 - ******************* Test started: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:34:56.284 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:36:19.603 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:36:46.856 BaseTest:114 - sessionId: c3730075-2f5c-4299-8026-d7ede7a3e784
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:36:47.482 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:36:47.482 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:36:49.862 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:36:49.862 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:36:52.065 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:36:52.065 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:36:54.569 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:36:54.570 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:37:03.648 BaseTest:155 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:39:20.705 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:39:34.496 BaseTest:114 - sessionId: 41c9b0cf-2f13-44a9-8031-16080a223350
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:39:35.425 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:39:35.426 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:39:38.054 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:39:38.054 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:39:40.185 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:39:40.185 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:39:42.147 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:39:42.147 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:39:50.788 BaseTest:155 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:40:25.581 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:40:37.332 BaseTest:114 - sessionId: fab8673a-5662-4ddd-9220-d3bd4f450b01
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:40:38.213 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:40:38.214 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:40:46.952 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:40:46.953 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:40:48.563 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:40:48.563 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:40:56.174 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:40:56.175 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:41:04.444 BaseTest:155 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:42:29.406 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:42:40.876 BaseTest:114 - sessionId: 8dff368e-f229-4c10-9189-3c0dc2de83a8
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:42:41.749 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:42:41.749 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:42:50.484 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:42:50.484 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:42:58.912 BaseTest:155 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:48:08.468 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:48:49.895 BaseTest:114 - sessionId: db69fb16-1a60-495d-a051-aa164da3cda8
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:48:52.766 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:48:52.767 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:49:01.224 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:49:01.224 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:49:10.732 BaseTest:155 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:51:31.944 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:51:44.844 BaseTest:114 - sessionId: 663d6ce5-2dd6-487e-b599-52512d670cd0
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:51:45.445 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:51:45.445 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:51:53.296 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:51:53.297 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:52:21.767 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:52:44.108 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:52:56.708 BaseTest:114 - sessionId: 85cfd2e4-e7ca-48bc-ba73-761654aba775
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:52:57.495 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:52:57.496 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:53:06.277 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:53:06.277 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:53:15.238 BaseTest:155 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:53:37.423 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:53:51.422 BaseTest:114 - sessionId: c1ec9df4-3485-402c-8bd0-adb46cf3abbe
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:53:52.273 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:53:52.274 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:54:01.738 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:54:01.739 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:54:11.041 BaseTest:155 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:54:35.936 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:54:47.557 BaseTest:114 - sessionId: 0c008c1f-57d8-4a0f-902f-dcd8c2d7f16c
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:54:48.055 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:54:48.055 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:55:54.288 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:55:54.288 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 13:56:02.591 BaseTest:155 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:00:07.079 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:00:24.829 BaseTest:114 - sessionId: fff802eb-7154-4e61-8853-92138cb3fa2f
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:00:25.570 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:00:25.570 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:02:41.154 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:02:52.941 BaseTest:114 - sessionId: 38acc12c-b785-4f28-a354-98d11830ff0c
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:02:53.828 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:02:53.828 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:07:28.796 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:07:57.628 BaseTest:115 - sessionId: 24cd9fe0-39fa-461f-b514-2160e0cbccdc
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:07:59.185 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:07:59.186 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:12:24.768 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:12:40.358 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:13:02.129 BaseTest:115 - sessionId: a7ff250d-7356-4cd3-8a8c-c4db4cf55589
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:13:03.097 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:13:03.097 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:21:50.367 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:22:10.918 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:22:35.591 BaseTest:115 - sessionId: 48d5a0fa-51de-4075-87d9-da08d08be203
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:22:36.562 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:22:36.563 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:23:09.300 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:23:09.301 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:23:18.405 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:23:49.696 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:24:03.169 BaseTest:115 - sessionId: c44acddc-b8ab-42d2-93b9-fa25bc70ab60
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:24:03.952 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:24:03.952 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:26:14.835 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:26:14.837 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:26:24.040 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:26:39.325 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:26:52.536 BaseTest:115 - sessionId: fddf80a8-ecd2-4ac4-b4bd-7d385fdbc132
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:26:53.399 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:26:53.400 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:28:35.301 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:29:02.898 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:29:21.448 BaseTest:115 - sessionId: d9596e25-be3a-456d-837c-d7558fd7240a
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:29:37.086 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:29:37.087 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:30:17.441 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:30:17.441 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:30:39.851 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:40:55.858 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 14:42:35.394 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 15:22:18.986 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 15:22:48.320 BaseTest:115 - sessionId: 8e5f5e69-af64-4111-bb8f-417e900173b8
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 15:22:49.332 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-27 15:22:49.334 LoginTests:54 - ******************* Test started: successfulLogin*******************

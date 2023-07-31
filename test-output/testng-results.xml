@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="12" total="16" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-31T10:46:59 IST" name="Test_Suite_Emulator_Pixel_3" finished-at="2023-07-31T10:49:21 IST" duration-ms="141930">
+    <groups>
+      <group name="REGRESSION">
+        <method signature="CompanySettingsTests.UpdateComapnyAbout()[pri:0, instance:com.appium.tests.CompanySettingsTests@30c15d8b]" name="UpdateComapnyAbout" class="com.appium.tests.CompanySettingsTests"/>
+        <method signature="LoginTests.successfulLogin()[pri:0, instance:com.appium.tests.LoginTests@76505305]" name="successfulLogin" class="com.appium.tests.LoginTests"/>
+        <method signature="LogoutTests.logOutApplication()[pri:0, instance:com.appium.tests.LogoutTests@411f53a0]" name="logOutApplication" class="com.appium.tests.LogoutTests"/>
+        <method signature="MyCompanyTests.checkUpdateComapnyAbout()[pri:0, instance:com.appium.tests.MyCompanyTests@51399530]" name="checkUpdateComapnyAbout" class="com.appium.tests.MyCompanyTests"/>
+      </group> <!-- REGRESSION -->
+      <group name="BVT">
+        <method signature="CompanySettingsTests.UpdateComapnyAbout()[pri:0, instance:com.appium.tests.CompanySettingsTests@30c15d8b]" name="UpdateComapnyAbout" class="com.appium.tests.CompanySettingsTests"/>
+        <method signature="LoginTests.successfulLogin()[pri:0, instance:com.appium.tests.LoginTests@76505305]" name="successfulLogin" class="com.appium.tests.LoginTests"/>
+        <method signature="LogoutTests.logOutApplication()[pri:0, instance:com.appium.tests.LogoutTests@411f53a0]" name="logOutApplication" class="com.appium.tests.LogoutTests"/>
+        <method signature="MyCompanyTests.checkUpdateComapnyAbout()[pri:0, instance:com.appium.tests.MyCompanyTests@51399530]" name="checkUpdateComapnyAbout" class="com.appium.tests.MyCompanyTests"/>
+      </group> <!-- BVT -->
+      <group name="SANITY">
+        <method signature="CompanySettingsTests.UpdateComapnyAbout()[pri:0, instance:com.appium.tests.CompanySettingsTests@30c15d8b]" name="UpdateComapnyAbout" class="com.appium.tests.CompanySettingsTests"/>
+        <method signature="LoginTests.successfulLogin()[pri:0, instance:com.appium.tests.LoginTests@76505305]" name="successfulLogin" class="com.appium.tests.LoginTests"/>
+        <method signature="LogoutTests.logOutApplication()[pri:0, instance:com.appium.tests.LogoutTests@411f53a0]" name="logOutApplication" class="com.appium.tests.LogoutTests"/>
+        <method signature="MyCompanyTests.checkUpdateComapnyAbout()[pri:0, instance:com.appium.tests.MyCompanyTests@51399530]" name="checkUpdateComapnyAbout" class="com.appium.tests.MyCompanyTests"/>
+      </group> <!-- SANITY -->
+    </groups>
+    <test started-at="2023-07-31T10:46:59 IST" name="Tests_on_Emulator_Pixel_2" finished-at="2023-07-31T10:49:21 IST" duration-ms="141930">
+      <class name="com.appium.tests.MyCompanyTests">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.appium.tests.MyCompanyTests@51399530]" started-at="2023-07-31T10:49:15 IST" name="beforeMethod" finished-at="2023-07-31T10:49:17 IST" duration-ms="1942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.tests.MyCompanyTests@51399530]" started-at="2023-07-31T10:49:17 IST" name="beforeMethod" finished-at="2023-07-31T10:49:17 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.tests.MyCompanyTests.checkUpdateComapnyAbout() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkUpdateComapnyAbout()[pri:0, instance:com.appium.tests.MyCompanyTests@51399530]" started-at="2023-07-31T10:49:17 IST" name="checkUpdateComapnyAbout" finished-at="2023-07-31T10:49:18 IST" duration-ms="1812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUpdateComapnyAbout -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.tests.MyCompanyTests@51399530]" started-at="2023-07-31T10:49:18 IST" name="afterMethod" finished-at="2023-07-31T10:49:18 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.tests.MyCompanyTests.checkUpdateComapnyAbout() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.appium.tests.MyCompanyTests@51399530]" started-at="2023-07-31T10:49:18 IST" name="afterMethod" finished-at="2023-07-31T10:49:18 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkUpdateComapnyAbout status=SUCCESS method=MyCompanyTests.checkUpdateComapnyAbout()[pri:0, instance:com.appium.tests.MyCompanyTests@51399530] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.appium.tests.MyCompanyTests@51399530]" started-at="2023-07-31T10:49:18 IST" name="afterClass" finished-at="2023-07-31T10:49:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.appium.tests.MyCompanyTests -->
+      <class name="com.appium.tests.LogoutTests">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.appium.tests.LogoutTests@411f53a0]" started-at="2023-07-31T10:49:18 IST" name="beforeMethod" finished-at="2023-07-31T10:49:20 IST" duration-ms="1212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.tests.LogoutTests@411f53a0]" started-at="2023-07-31T10:49:20 IST" name="beforeMethod" finished-at="2023-07-31T10:49:20 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.tests.LogoutTests.logOutApplication() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="logOutApplication()[pri:0, instance:com.appium.tests.LogoutTests@411f53a0]" started-at="2023-07-31T10:49:20 IST" name="logOutApplication" finished-at="2023-07-31T10:49:20 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutApplication -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.tests.LogoutTests@411f53a0]" started-at="2023-07-31T10:49:20 IST" name="afterMethod" finished-at="2023-07-31T10:49:20 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.tests.LogoutTests.logOutApplication() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.appium.tests.LogoutTests@411f53a0]" started-at="2023-07-31T10:49:20 IST" name="afterMethod" finished-at="2023-07-31T10:49:20 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logOutApplication status=SUCCESS method=LogoutTests.logOutApplication()[pri:0, instance:com.appium.tests.LogoutTests@411f53a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.appium.tests.LogoutTests@411f53a0]" started-at="2023-07-31T10:49:20 IST" name="afterClass" finished-at="2023-07-31T10:49:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.appium.tests.LogoutTests -->
+      <class name="com.appium.tests.LoginTests">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.appium.tests.LoginTests@76505305]" started-at="2023-07-31T10:46:54 IST" name="beforeSuite" finished-at="2023-07-31T10:46:59 IST" duration-ms="5071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.appium.tests.LoginTests@76505305]" started-at="2023-07-31T10:46:59 IST" name="beforeTest" finished-at="2023-07-31T10:47:47 IST" duration-ms="48049" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pixel_2_API_30]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[10011]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[11012]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[iOSOnly]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[iOSOnly]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.appium.tests.LoginTests@76505305]" started-at="2023-07-31T10:47:48 IST" name="beforeMethod" finished-at="2023-07-31T10:47:49 IST" duration-ms="1954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.tests.LoginTests@76505305]" started-at="2023-07-31T10:47:49 IST" name="beforeMethod" finished-at="2023-07-31T10:47:50 IST" duration-ms="184" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.tests.LoginTests.successfulLogin() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="successfulLogin()[pri:0, instance:com.appium.tests.LoginTests@76505305]" started-at="2023-07-31T10:47:50 IST" name="successfulLogin" finished-at="2023-07-31T10:48:32 IST" duration-ms="42828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulLogin -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.tests.LoginTests@76505305]" started-at="2023-07-31T10:48:32 IST" name="afterMethod" finished-at="2023-07-31T10:48:32 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.tests.LoginTests.successfulLogin() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.appium.tests.LoginTests@76505305]" started-at="2023-07-31T10:48:32 IST" name="afterMethod" finished-at="2023-07-31T10:48:32 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=successfulLogin status=SUCCESS method=LoginTests.successfulLogin()[pri:0, instance:com.appium.tests.LoginTests@76505305] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.appium.tests.LoginTests@76505305]" started-at="2023-07-31T10:48:32 IST" name="afterClass" finished-at="2023-07-31T10:48:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.appium.tests.LoginTests@76505305]" started-at="2023-07-31T10:49:20 IST" name="afterTest" finished-at="2023-07-31T10:49:21 IST" duration-ms="1412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.appium.tests.LoginTests@76505305]" started-at="2023-07-31T10:49:21 IST" name="afterSuite" finished-at="2023-07-31T10:49:21 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.appium.tests.LoginTests -->
+      <class name="com.appium.tests.CompanySettingsTests">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.appium.tests.CompanySettingsTests@30c15d8b]" started-at="2023-07-31T10:48:32 IST" name="beforeMethod" finished-at="2023-07-31T10:48:41 IST" duration-ms="8482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.tests.CompanySettingsTests@30c15d8b]" started-at="2023-07-31T10:48:41 IST" name="beforeMethod" finished-at="2023-07-31T10:48:41 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.tests.CompanySettingsTests.UpdateComapnyAbout() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="UpdateComapnyAbout()[pri:0, instance:com.appium.tests.CompanySettingsTests@30c15d8b]" started-at="2023-07-31T10:48:41 IST" name="UpdateComapnyAbout" finished-at="2023-07-31T10:49:15 IST" duration-ms="33728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateComapnyAbout -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.appium.tests.CompanySettingsTests@30c15d8b]" started-at="2023-07-31T10:49:15 IST" name="afterMethod" finished-at="2023-07-31T10:49:15 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.appium.tests.CompanySettingsTests.UpdateComapnyAbout() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.appium.tests.CompanySettingsTests@30c15d8b]" started-at="2023-07-31T10:49:15 IST" name="afterMethod" finished-at="2023-07-31T10:49:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UpdateComapnyAbout status=SUCCESS method=CompanySettingsTests.UpdateComapnyAbout()[pri:0, instance:com.appium.tests.CompanySettingsTests@30c15d8b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.appium.tests.CompanySettingsTests@30c15d8b]" started-at="2023-07-31T10:49:15 IST" name="afterClass" finished-at="2023-07-31T10:49:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.appium.tests.CompanySettingsTests -->
+    </test> <!-- Tests_on_Emulator_Pixel_2 -->
+  </suite> <!-- Test_Suite_Emulator_Pixel_3 -->
+</testng-results>

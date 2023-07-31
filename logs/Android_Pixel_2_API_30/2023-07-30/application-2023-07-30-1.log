@@ -1,0 +1,371 @@
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 15:32:23.356 BaseTestMobile:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:26:23.385 BaseTestMobile:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:27:53.037 BaseTestMobile:115 - sessionId: 9570a2e6-888d-4a4e-8c41-9eb85c55e5aa
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:27:56.229 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:27:56.230 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:28:09.248 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:28:09.249 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:29:00.347 BaseTestMobile:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:29:49.962 BaseTestMobile:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:32:56.265 BaseTestMobile:93 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:35:43.019 BaseTestMobile:93 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:36:04.436 BaseTestMobile:118 - sessionId: fc2108e8-5ebf-48ed-bce7-f2979a804d68
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:36:05.411 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:36:05.412 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:36:07.187 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:36:07.188 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:36:28.427 BaseTestMobile:93 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:39:14.169 BaseTestMobile:93 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:39:41.213 BaseTestMobile:118 - sessionId: 3b8bc3b6-2a32-43d9-aa17-21c139db63ba
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:39:41.991 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:39:41.991 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:39:53.788 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:39:53.789 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:46:13.256 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:47:33.971 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:49:20.793 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:50:19.058 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:50:42.459 BaseTestMobile:119 - sessionId: 8f49552e-456d-4603-b999-0f71ea199932
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:50:43.134 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:50:43.134 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:50:44.979 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:50:44.981 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:53:49.428 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:55:14.692 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 19:56:06.238 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:00:25.130 BaseTestMobile:95 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:01:28.497 BaseTestMobile:95 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:04:03.405 BaseTestMobile:95 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:04:37.619 BaseTestMobile:118 - sessionId: 1dff8c47-e126-4021-8dbf-c72206b83d0b
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:04:38.198 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:04:38.200 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:04:40.387 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:04:40.388 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:10:13.613 BaseTestMobile:95 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:10:47.053 BaseTestMobile:118 - sessionId: 14f71de1-bc86-45f7-a782-0a8be67cb874
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:10:48.170 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:10:48.171 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:11:03.226 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:11:03.226 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:14:28.859 BaseTestMobile:95 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:14:55.749 BaseTestMobile:118 - sessionId: 11153b32-6c19-45b4-932e-173dc635254f
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:14:56.325 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:14:56.326 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:14:58.832 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:14:58.832 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:23:45.527 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:24:10.402 BaseTestMobile:119 - sessionId: a9150b5c-56ec-4fb2-9673-7004d3bc3361
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:24:11.123 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:24:11.123 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:24:14.107 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:24:14.108 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:27:19.908 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:28:21.383 BaseTestMobile:119 - sessionId: 888cba72-2ecc-4762-9459-288f167391aa
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:28:21.950 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:28:21.951 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:28:23.486 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:28:23.487 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:28:51.330 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:29:05.027 BaseTestMobile:119 - sessionId: 521a85f8-b372-4015-997f-864901ad45b8
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:29:05.679 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:29:05.680 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:48:55.258 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:49:26.970 BaseTestMobile:119 - sessionId: fc080bb3-a6d2-42ee-ac6e-9b104ca5a9bd
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:49:29.345 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:49:29.345 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:50:52.064 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:51:17.362 BaseTestMobile:119 - sessionId: 2ea83017-864d-4317-8019-966d5cfe86b1
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:51:18.077 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:51:18.078 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:51:25.201 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:51:25.344 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:51:25.735 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:51:26.362 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:51:27.331 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:52:01.923 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:52:02.985 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:52:02.987 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:52:04.322 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:52:04.322 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:52:04.399 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:52:05.370 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:52:40.790 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:52:40.919 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:52:42.352 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:52:42.497 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:52:42.497 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:52:43.852 BaseTestMobile:160 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:55:31.011 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:55:49.425 BaseTestMobile:119 - sessionId: 0d6cec82-33bc-40c5-9e53-b39e44c0402f
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:55:50.050 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:55:50.051 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:55:54.337 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:55:54.423 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:55:54.755 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:55:54.920 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:55:55.278 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:56:13.939 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:56:14.554 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:56:14.554 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:56:15.864 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:56:15.864 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:56:15.940 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:56:16.855 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:56:28.123 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:56:28.412 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:56:29.879 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:56:30.016 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:56:30.017 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:56:31.245 BaseTestMobile:160 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:58:11.769 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:58:27.212 BaseTestMobile:119 - sessionId: b302d686-a346-4d12-aead-7a0d761c6df9
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:58:27.835 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:58:27.835 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:58:34.396 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:58:34.486 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:58:35.423 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:58:35.499 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:58:36.583 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:59:01.720 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:59:02.275 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:59:02.275 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:59:03.590 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:59:03.590 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:59:03.680 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:59:04.925 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:59:21.973 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:59:22.115 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 20:59:23.573 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:59:23.727 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:59:23.728 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 20:59:24.992 BaseTestMobile:160 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:03:12.324 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:03:33.195 BaseTestMobile:119 - sessionId: 10006dc8-93c3-4a1f-8d32-e25f1f7c6d46
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:03:33.744 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:03:33.745 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:03:38.979 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:03:39.081 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:03:39.420 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:03:39.562 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:03:39.885 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:04:00.902 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:04:02.005 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:04:02.006 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:04:03.367 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:04:03.368 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:04:03.441 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:04:04.340 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:04:31.568 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:04:31.762 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:04:33.773 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:04:34.182 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:04:34.183 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:04:37.091 BaseTestMobile:160 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:05:33.986 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:05:47.351 BaseTestMobile:119 - sessionId: 273a7087-24a8-4c96-ae90-362e77271830
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:05:48.001 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:05:48.001 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:05:50.934 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:05:51.018 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:05:51.364 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:05:51.493 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:05:52.593 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:06:12.749 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:06:13.236 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:06:13.237 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:06:14.568 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:06:14.569 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:06:14.665 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:06:15.607 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:06:28.821 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:06:28.943 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:06:30.336 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:06:30.499 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:06:30.499 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:06:31.905 BaseTestMobile:160 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:06:57.306 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:07:09.509 BaseTestMobile:119 - sessionId: b5cba9cb-4535-46b4-81f5-296ebaaf4eac
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:07:10.164 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:07:10.164 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:07:12.890 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:07:12.981 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:07:13.298 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:07:13.382 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:07:14.819 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:07:34.180 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:07:34.711 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:07:34.712 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:07:35.981 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:07:35.982 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:07:36.131 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:07:37.012 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:07:45.621 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:07:45.764 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 21:07:47.262 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:07:47.431 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:07:47.431 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 21:07:48.630 BaseTestMobile:160 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:08:10.319 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:08:37.105 BaseTestMobile:119 - sessionId: 16fa6cc5-8b9c-408f-8c7f-ad7203a42c73
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:08:37.792 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:08:37.793 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:08:46.757 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:08:46.837 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:08:47.704 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:08:47.825 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:08:48.623 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:09:12.006 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:12.595 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:12.595 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:13.923 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:13.924 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:09:14.003 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:09:14.939 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:09:24.564 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:09:24.698 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:09:26.323 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:26.603 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:26.604 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:28.112 MyCompanyTests:45 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:28.112 MyCompanyTests:46 - ******************* Test started: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:09:28.522 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:09:29.610 BasePageMobile:103 - My Company is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:29.815 MyCompanyTests:55 - ******************* Test ended: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:29.815 MyCompanyTests:56 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:30.987 LogoutTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:30.987 LogoutTests:43 - ******************* Test started: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:09:31.081 BasePageMobile:103 - LogOut button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:31.164 LogoutTests:52 - ******************* Test ended: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:31.165 LogoutTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:09:32.472 BaseTestMobile:160 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:13:23.381 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:13:44.163 BaseTestMobile:119 - sessionId: ebb982c0-d68b-4102-ba7f-d7b321ec858a
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:13:44.940 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:13:44.940 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:13:52.986 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:13:53.114 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:13:54.094 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:13:54.164 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:13:55.060 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:14:16.400 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:16.994 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:16.995 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:18.361 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:18.362 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:14:18.450 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:14:19.533 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:14:30.494 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:14:30.646 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:14:32.228 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:32.463 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:32.464 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:34.742 MyCompanyTests:45 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:34.742 MyCompanyTests:46 - ******************* Test started: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:14:34.875 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:14:35.961 BasePageMobile:103 - My Company is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:36.148 MyCompanyTests:55 - ******************* Test ended: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:36.149 MyCompanyTests:56 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:37.394 LogoutTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:37.394 LogoutTests:43 - ******************* Test started: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:14:37.554 BasePageMobile:103 - LogOut button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:37.675 LogoutTests:52 - ******************* Test ended: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:37.676 LogoutTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:14:39.122 BaseTestMobile:160 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:16:13.029 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:16:29.610 BaseTestMobile:119 - sessionId: ff676011-66e2-4191-840d-c39bc20c9354
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:16:30.228 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:16:30.229 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:16:34.478 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:16:34.593 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:16:35.566 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:16:35.664 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:16:36.527 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:16:57.122 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:16:57.785 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:16:57.786 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:16:59.195 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:16:59.196 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:16:59.295 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:17:00.255 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:17:11.871 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:17:12.060 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:17:13.504 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:17:13.711 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:17:13.712 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:17:15.422 MyCompanyTests:45 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:17:15.424 MyCompanyTests:46 - ******************* Test started: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:17:15.562 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:17:16.838 BasePageMobile:103 - My Company is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:17:17.020 MyCompanyTests:55 - ******************* Test ended: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:17:17.021 MyCompanyTests:56 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:17:18.259 LogoutTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:17:18.259 LogoutTests:43 - ******************* Test started: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:17:18.370 BasePageMobile:103 - LogOut button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:17:18.513 LogoutTests:52 - ******************* Test ended: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:17:18.514 LogoutTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:17:19.260 BaseTestMobile:160 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:22:21.040 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:22:34.721 BaseTestMobile:119 - sessionId: aebdef21-aabb-42f3-863c-9488608e1c10
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:22:35.310 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:22:35.311 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:22:40.515 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:22:40.696 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:22:41.403 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:22:41.988 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:22:42.873 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:23:04.585 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:05.269 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:05.270 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:06.766 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:06.766 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:23:06.873 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:23:07.989 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:23:19.433 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:23:19.570 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:23:21.268 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:21.459 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:21.461 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:23.148 MyCompanyTests:45 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:23.148 MyCompanyTests:46 - ******************* Test started: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:23:23.298 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:23:24.420 BasePageMobile:103 - My Company is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:24.635 MyCompanyTests:55 - ******************* Test ended: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:24.636 MyCompanyTests:56 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:25.875 LogoutTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:23:25.876 LogoutTests:43 - ******************* Test started: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:24:31.976 LogoutTests:52 - ******************* Test ended: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:24:31.977 LogoutTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:24:33.459 BaseTestMobile:160 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:32:00.092 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:32:19.820 BaseTestMobile:119 - sessionId: 6c960fdd-2a82-4b57-a1c1-67c4c2372dcb
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:32:20.502 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:32:20.503 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:32:27.390 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:32:27.580 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:32:27.932 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:32:28.063 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:32:28.395 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:32:54.270 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:32:54.875 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:32:54.876 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:32:56.190 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:32:56.190 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:32:56.301 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:32:57.205 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:33:07.031 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:33:07.167 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:33:08.617 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:33:08.782 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:33:08.783 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:33:10.293 MyCompanyTests:45 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:33:10.294 MyCompanyTests:46 - ******************* Test started: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:33:10.565 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:33:11.638 BasePageMobile:103 - My Company is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:33:11.831 MyCompanyTests:55 - ******************* Test ended: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:33:11.832 MyCompanyTests:56 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:33:13.016 LogoutTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:33:13.016 LogoutTests:43 - ******************* Test started: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-30 23:33:13.105 BasePageMobile:103 - LogOut button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:33:13.203 LogoutTests:52 - ******************* Test ended: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:33:13.204 LogoutTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-30 23:33:14.593 BaseTestMobile:160 - Appium Server stopped.............

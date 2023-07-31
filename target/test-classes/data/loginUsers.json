@@ -1,0 +1,20 @@
+{
+	"invalidUser": {
+		"username": "invalidusername",
+		"password": "secret_sauce"
+	},
+	"invalidPassword": {
+		"username": "standard_user",
+		"password": "invalidpassword"
+	},
+	"validUser": {
+		"username": "nupur.pandey@zyyah.com",
+		"password": "Nupur.Pandey@9871345378"
+	},
+	
+	"webValidUser": {
+		"username": "nupurtest0101@yopmail.com",
+		"password": "Zember@123"
+	}
+}
+

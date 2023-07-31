@@ -1,0 +1,167 @@
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:19:25.309 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:20:29.070 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:22:10.278 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:23:29.338 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:24:15.010 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:26:35.255 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:26:58.088 BaseTest:115 - sessionId: 067ec53d-9e30-4f77-a0e9-45ed3ea5d13a
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:26:59.353 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:26:59.353 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:27:06.039 BasePage:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:27:06.222 BasePage:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:27:07.988 BasePage:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:27:08.104 BasePage:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:27:08.999 BasePage:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:27:09.286 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:27:09.286 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:27:32.751 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:29:44.676 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:29:59.674 BaseTest:115 - sessionId: c2fc7cd1-595e-4166-baa9-c72c56d6443a
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:30:00.316 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:30:00.316 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:30:05.777 BasePage:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:30:05.867 BasePage:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:30:06.751 BasePage:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:30:06.850 BasePage:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:30:07.737 BasePage:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:30:07.893 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:30:07.894 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:30:09.290 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:31:34.577 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:31:46.498 BaseTest:115 - sessionId: 649795b1-50cd-4fe5-a36a-ac4195381350
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:31:47.103 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:31:47.103 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:31:52.037 BasePage:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:31:52.127 BasePage:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:31:53.044 BasePage:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:31:53.311 BasePage:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:31:54.280 BasePage:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:32:44.434 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:32:44.434 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:32:45.756 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:39:30.037 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:39:48.151 BaseTest:115 - sessionId: f7d2226c-1c82-419b-9419-0e81e60b8b0e
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:39:48.748 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:39:48.749 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:39:53.676 BasePage:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:39:53.762 BasePage:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:39:54.651 BasePage:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:39:54.723 BasePage:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:39:55.708 BasePage:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:40:45.891 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:40:45.892 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:40:47.385 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:49:11.036 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:49:42.184 BaseTest:115 - sessionId: 5ca5c5da-d0b3-478b-a05b-87967dac2718
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:49:43.234 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:49:43.235 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:49:58.234 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:49:58.235 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:50:04.340 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:50:44.363 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:50:57.830 BaseTest:115 - sessionId: b322c218-4cbf-4e25-a792-2df4e6bedd99
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:50:58.441 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:50:58.441 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:51:02.265 BasePage:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:51:02.365 BasePage:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:51:03.274 BasePage:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:51:03.341 BasePage:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 15:51:04.208 BasePage:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:51:54.378 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:51:54.378 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 15:51:55.784 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:09:27.179 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:09:59.803 BaseTest:115 - sessionId: e0688723-8e37-4339-b760-f76ccd34c1f0
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:01.018 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:01.019 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:13.325 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:13.325 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:15.599 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:15.599 ProductTests:59 - ******************* Test started: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:27.518 ProductTests:68 - ******************* Test ended: validateProductOnProductDetailsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:27.519 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:30.483 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:37.976 ProductTests:58 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:37.977 ProductTests:59 - ******************* Test started: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:49.548 ProductTests:68 - ******************* Test ended: validateProductOnProductsPage*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:10:49.549 ProductTests:69 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:00.243 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:00.585 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:15.312 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:19.625 BaseTest:115 - sessionId: 48278556-f0cf-43d4-b667-b1d33cd4e6d1
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:20.303 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:20.303 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:29.078 BaseTest:115 - sessionId: 5a2d6d51-a357-48bf-a9ea-3f02a44048c3
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:29.690 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:29.691 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:41.169 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:41.170 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:42.560 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:11:59.067 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:12:11.983 BaseTest:115 - sessionId: f8e754f0-b567-43db-8934-ed600dd17ebf
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:12:12.613 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:12:12.614 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 16:12:16.907 BasePage:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 16:12:17.001 BasePage:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 16:12:17.722 BasePage:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 16:12:17.900 BasePage:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 16:12:18.968 BasePage:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:12:30.373 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:12:30.373 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:12:31.675 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:17:51.697 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:18:06.738 BaseTest:115 - sessionId: e66e3199-98b2-456a-aae9-0401085e8191
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:18:07.354 LoginTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:18:07.355 LoginTests:54 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 16:18:12.767 BasePage:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 16:18:12.862 BasePage:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 16:18:13.849 BasePage:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 16:18:13.934 BasePage:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 16:18:14.952 BasePage:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 16:18:38.998 BasePage:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:18:49.130 LoginTests:62 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:18:49.130 LoginTests:63 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 16:18:50.432 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:45:40.510 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:46:06.038 BaseTest:115 - sessionId: edfab0e4-d023-4285-a592-2ce9add02765
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:46:07.393 LoginTests:49 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:46:07.394 LoginTests:50 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:46:30.981 BasePage:127 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:46:31.061 BasePage:111 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:46:32.008 BasePage:127 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:46:32.083 BasePage:111 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:46:32.415 BasePage:104 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:46:54.450 BasePage:104 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:46:54.671 VerificationUtils:32 - Actual: Welcome home, Nupur
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:46:54.671 VerificationUtils:33 - Expected: Welcome home, Nupur
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:46:55.072 LoginTests:58 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:46:55.072 LoginTests:59 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:46:56.488 CompanySettingsTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:46:56.490 CompanySettingsTests:51 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:46:56.773 CompanySettingsTests:59 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:46:56.774 CompanySettingsTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:46:58.210 BaseTest:156 - Appium Server stopped.............
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:49:43.758 BaseTest:92 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:49:58.523 BaseTest:115 - sessionId: 19d16a4e-644c-4c7d-a9eb-3f7e014ddc02
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:49:59.152 LoginTests:49 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:49:59.153 LoginTests:50 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:04.752 BasePage:127 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:04.841 BasePage:111 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:05.901 BasePage:127 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:06.065 BasePage:111 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:07.014 BasePage:104 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:30.899 BasePage:104 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:31.196 VerificationUtils:32 - Actual: Welcome home, Nupur
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:31.196 VerificationUtils:33 - Expected: Welcome home, Nupur
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:50:31.621 LoginTests:58 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:50:31.622 LoginTests:59 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:50:33.110 CompanySettingsTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:50:33.111 CompanySettingsTests:51 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:33.190 BasePage:104 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:34.143 BasePage:104 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:42.979 BasePage:127 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:43.140 BasePage:111 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-29 17:50:45.795 BasePage:104 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:50:45.969 CompanySettingsTests:60 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:50:45.969 CompanySettingsTests:61 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-29 17:50:47.503 BaseTest:156 - Appium Server stopped.............

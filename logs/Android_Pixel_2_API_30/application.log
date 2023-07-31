@@ -1,0 +1,33 @@
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:46:59.915 BaseTestMobile:96 - Log file path: logs\Android_Pixel_2_API_30
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:47:47.928 BaseTestMobile:119 - sessionId: ad61a691-329f-4b06-8608-7c4a50f076b5
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:47:49.963 LoginTests:50 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:47:49.964 LoginTests:51 - ******************* Test started: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:48:00.717 BasePageMobile:126 - Filling nupur.pandey@zyyah.com in Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:48:01.398 BasePageMobile:110 - Clearing: Username Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:48:01.874 BasePageMobile:126 - Filling Nupur.Pandey@9871345378 in Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:48:02.403 BasePageMobile:110 - Clearing: Password Textbox
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:48:02.929 BasePageMobile:103 - Login button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:48:31.139 BasePageMobile:103 - Skip Quick Process is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:48:32.984 LoginTests:59 - ******************* Test ended: successfulLogin*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:48:32.985 LoginTests:60 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:48:41.477 CompanySettingsTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:48:41.478 CompanySettingsTests:43 - ******************* Test started: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:48:41.690 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:48:43.476 BasePageMobile:103 - Company Settings is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:49:12.820 BasePageMobile:126 - Filling Test in about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:49:13.062 BasePageMobile:110 - Clearing: about TextAera
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:49:14.953 BasePageMobile:103 - Save Button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:49:15.217 CompanySettingsTests:52 - ******************* Test ended: UpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:49:15.218 CompanySettingsTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:49:17.162 MyCompanyTests:45 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:49:17.164 MyCompanyTests:46 - ******************* Test started: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:49:17.459 BasePageMobile:103 - Menu button is clicked
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:49:18.770 BasePageMobile:103 - My Company is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:49:18.990 MyCompanyTests:55 - ******************* Test ended: checkUpdateComapnyAbout*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:49:18.990 MyCompanyTests:56 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:49:20.205 LogoutTests:42 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:49:20.205 LogoutTests:43 - ******************* Test started: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 INFO ] 2023-07-31 10:49:20.305 BasePageMobile:103 - LogOut button is clicked
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:49:20.391 LogoutTests:52 - ******************* Test ended: logOutApplication*******************
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:49:20.392 LogoutTests:53 - ---------------------------------------------------
+[logsAndroid_Pixel_2_API_30 DEBUG] 2023-07-31 10:49:21.920 BaseTestMobile:160 - Appium Server stopped.............
