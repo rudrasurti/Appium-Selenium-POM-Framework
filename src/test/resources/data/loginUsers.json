@@ -8,13 +8,13 @@
 		"password": "invalidpassword"
 	},
 	"validUser": {
-		"username": "nupur.pandey@zyyah.com",
-		"password": "Nupur.Pandey@9871345378"
+		"username": "",
+		"password": ""
 	},
 	
 	"webValidUser": {
-		"username": "nupurtest0101@yopmail.com",
-		"password": "Zember@123"
+		"username": "",
+		"password": ""
 	}
 }
 
